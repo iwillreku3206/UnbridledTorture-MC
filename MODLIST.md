@@ -218,12 +218,36 @@
 
 * Creative Wireless Transmitter (1.19.2-1.2) ([link](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter))
 
-* Creatures and Beasts ()
+* Creatures and Beasts (1.5.2) ([link](https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts))
+
+* CreeperHost Presents Chickens (1.0.30) ([link](https://www.curseforge.com/minecraft/mc-mods/creeperhost-presents-chickens))
+
+* Croptopia (2.2.2) ([link](https://www.curseforge.com/minecraft/mc-mods/croptopia))
+
+* Cultural Delights (0.15.1) ([link](https://www.curseforge.com/minecraft/mc-mods/cultural-delights))
+
+* Culinary Construct (5.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/culinary-construct))
+
+* Cursed Earth (1.19.2-5) ([link](https://www.curseforge.com/minecraft/mc-mods/cursed-earth))
+
+* Custom Window Title (1.1.1) ([link](https://www.curseforge.com/minecraft/mc-mods/custom-window-title))
+
+* Cyclic (1.7.14) ([link](https://www.curseforge.com/minecraft/mc-mods/cyclic))
+
+* Dark Utilities (13.1.7) ([link](https://www.curseforge.com/minecraft/mc-mods/dark-utilities))
+
+* Decorative Blocks (3.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks))
+
+* Deep Resonance (4.1.3) ([link](https://www.curseforge.com/minecraft/mc-mods/deep-resonance))
+
+* Default Options (15.0.1) ([link](https://www.curseforge.com/minecraft/mc-mods/default-options))
 
 * GeckoLib (3.1.40) ([link](https://www.curseforge.com/minecraft/mc-mods/geckolib))
 
 * TheDragonLib (1.19-1.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/thedragonlib))
 
 * ToroHealth Damage Indicators (1.19-forge-2) ([link](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators))
+
+* Unstable Tools (7.0.2a) ([link](https://www.curseforge.com/minecraft/mc-mods/unstable-tools))
 
 * [SBM] Wooden Shears (1.19.2-1.2.1) ([link](https://www.curseforge.com/minecraft/mc-mods/sbm-wooden-shears))
