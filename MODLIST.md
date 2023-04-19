@@ -228,6 +228,8 @@
 
 * Culinary Construct (5.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/culinary-construct))
 
+* Curios API (Forge) (5.1.4.0) ([link](https://www.curseforge.com/minecraft/mc-mods/curios))
+
 * Cursed Earth (1.19.2-5) ([link](https://www.curseforge.com/minecraft/mc-mods/cursed-earth))
 
 * Custom Window Title (1.1.1) ([link](https://www.curseforge.com/minecraft/mc-mods/custom-window-title))
