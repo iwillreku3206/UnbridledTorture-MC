@@ -242,6 +242,23 @@
 
 * Default Options (15.0.1) ([link](https://www.curseforge.com/minecraft/mc-mods/default-options))
 
+* Ding (Forge) (1.4.0) ([link](https://www.curseforge.com/minecraft/mc-mods/ding))
+
+* DimStorage (7.2.0) ([link](https://www.curseforge.com/minecraft/mc-mods/dimstorage))
+
+* Drawers Tooltip (6.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip))
+
+* Dramatic Doors (2.3.0) ([link](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors))
+
+
+* Drippy Loading Screen (Forge) (1.19.1) ([link](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen))
+
+* Easy Shukler Boxes (4.3.7) ([link](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes))
+
+* Dusk [Forge/Fabric] (3.2) ([link](https://www.curseforge.com/minecraft/mc-mods/dusk))
+
+* 
+
 * GeckoLib (3.1.40) ([link](https://www.curseforge.com/minecraft/mc-mods/geckolib))
 
 * TheDragonLib (1.19-1.0.0) ([link](https://www.curseforge.com/minecraft/mc-mods/thedragonlib))
